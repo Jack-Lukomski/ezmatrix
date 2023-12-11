@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "main.c"
+    ],
+    "directory": "/mnt/c/Users/jtluk/OneDrive/Desktop/ez_matrix",
+    "file": "/mnt/c/Users/jtluk/OneDrive/Desktop/ez_matrix/main.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "ezmatrix.c"
+    ],
+    "directory": "/mnt/c/Users/jtluk/OneDrive/Desktop/ez_matrix",
+    "file": "/mnt/c/Users/jtluk/OneDrive/Desktop/ez_matrix/ezmatrix.c"
+  }
+]
