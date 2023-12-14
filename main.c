@@ -13,13 +13,10 @@ void print(Matrix_t *m)
     printf("\n\n");
 }
 
-
-int main (void) 
-{
+int main (void) {
     srand(time(0)); 
     Matrix_t *a = create_random_matrix(3, 3, 0, 10);
     Matrix_t *b = create_random_matrix(3, 3, 0, 10);
-
     Matrix_t *c = matrix_transpose(a);
 
     print(a);
